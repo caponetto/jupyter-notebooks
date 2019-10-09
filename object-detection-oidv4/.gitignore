@@ -3,4 +3,5 @@
 !.gitignore
 !environment.yml
 !object-detection-oidv4.ipynb
+!object-detection-oidv4.html
 !Ubuntu-R.ttf
