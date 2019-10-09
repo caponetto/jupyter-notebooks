@@ -1,0 +1,6 @@
+*
+
+!.gitignore
+!environment.yml
+!object-detection-oidv4.ipynb
+!Ubuntu-R.ttf
